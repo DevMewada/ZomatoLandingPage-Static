@@ -1,4 +1,5 @@
-# ZomatoLandingPage-Static
+# This is my zomato landing page clone
 
-This is my first GitHub repo.
-Author - Dev Mewada (Demlaot)
+## Done with first commit.
+
+## Set Up created here for our appln
