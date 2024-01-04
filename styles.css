@@ -101,6 +101,7 @@ body{
     align-items: center;
     color: #FF7E8B;
 }
+
 @media only screen and (max-width: 480px) {
     .fa-user{
         display: flex;
@@ -210,7 +211,34 @@ body{
     text-decoration: none;
     color: red;
 }
-
+.collections_list{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.collection_box{
+    height: 80%;
+    width: 24%;
+    border-radius: 12px;
+    background-position: center;
+    background-size: cover;
+}
+.collection_box_one{
+    background-image: url("./images/collection1.jpg");
+}
+.collection_box_two{
+    background-image: url("./images/collection2.jpg");
+}
+.collection_box_three{
+    background-image: url("./images/collection3.jpg");
+}
+.collection_box_four{
+    background-image: url("./images/collection4.jpg");
+}
 
 
 
